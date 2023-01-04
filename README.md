@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Yo-Soy-Jacko
+- Soy de Buenos Aires Argentina
+- 32 años, no se si llamarme programador autodidacta pero en estoy en construcion de eso.
 - en construccion--
 
 <!---
